@@ -15,10 +15,6 @@ Use the following credentials for quick access:
 ### Demo Account:
 - **Email**: `janedoe@example.com`
 - **Password**: `password123`
-
-**Demo Account Permissions:**
-- Limited access for exploring the system.
-
 ---
 
 ## Features
@@ -50,12 +46,12 @@ This project is built using the following technologies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/user-management-system.git
+   git clone https://github.com/jaythummar0408/ctn-demoo.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd user-management-system
+   cd ctn-demoo
    ```
 
 3. Install dependencies:
@@ -65,12 +61,12 @@ This project is built using the following technologies:
 
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open the application in your browser:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
@@ -101,5 +97,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com].
+For any questions or feedback, please reach out to [jppatel10125@gmail.com].
 
